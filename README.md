@@ -5,7 +5,7 @@
 * Press 'q' to stop the run if you are running the cam() function.
 * It works on the NEW model, if some landmarks are not detected it reverts backs to the OLD model.
 
-# **Validation accuracy achieved is in the range(76-81) **
+# Validation accuracy achieved is in the range(76-81)
 
 **Model Files Link(.h5)** : https://drive.google.com/file/d/1wzZj0v1aT0c88d3Pml-DKX-3k7ASRRVk/view?usp=sharing(NEW)
 https://drive.google.com/file/d/1LH52IiHv4qpYdtIn5zuDpF31GrwHCjeK/view?usp=share_link(OLD)
